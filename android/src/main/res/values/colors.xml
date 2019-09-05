@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="notification_bg">#e91e63</color>
+    <color name="silver">#ecf0f1</color>
+    <color name="peterRiver">#3498db</color>
+</resources>
